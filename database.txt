@@ -1,0 +1,31 @@
+CREATE TABLE IF NOT EXISTS `bus` (
+`id` int(10) NOT NULL AUTO_INCREMENT,
+`source` varchar(30) NOT NULL,
+`dest` varchar(30) NOT NULL,
+`bus` varchar(35) NOT NULL,
+`fare`  varchar(15) NOT NULL,
+`time` int(5) NOT NULL,
+`cost` int(5) NOT NULL,
+
+PRIMARY KEY (`id`)
+)
+
+
+CREATE TABLE IF NOT EXISTS `city` (
+`id` int(4) NOT NULL AUTO_INCREMENT,
+`city` varchar(30) NOT NULL,
+`lat` float(10,5) NOT NULL,
+`lng` float(10,5) NOT NULL,
+
+PRIMARY KEY (`id`)
+)
+
+
+CREATE TABLE IF NOT EXISTS `node` (
+`id` int(4) NOT NULL AUTO_INCREMENT,
+`node1` int(4) NOT NULL,
+`node2` int(4) NOT NULL,
+`distance` float(7,2) NOT NULL,
+
+PRIMARY KEY (`id`)
+)

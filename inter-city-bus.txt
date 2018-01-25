@@ -1,0 +1,17 @@
+#Comilla-dhaka Tisha Asia Line (200) Royal BRTC (250) 4 hours
+#Comilla-Chittagong Soudia , BRTC, Sea Bird,Doel 170 2 hours
+#Comilla-Sylhet BRTC,Comilla Transport 250 5hours
+#Sylhet-dhaka Hanif 480-1200, Shohag Poribahan, Green Line 1150 2.5hours
+#sylhet-Mymensingh local 440 taka, 8 hour
+#Sylhet-Chittagong Greenline (Tk 550, 6 hours)
+#Chittagong-dhaka Greenline, Silkline and Shohag 6 hours 900-1100
+#Mymensingh-dhaka Ena,Shoukhin Tk. 220 2hour
+#Khulna-dhaka Eagle transport, A K Travels, Hanif Tk 500 7 hours
+#Rajshahi-dhaka Hanif, Desh Travels-Tk-A.C.-900 Non A.C.-420 Modern EnterpriseTk-420 5 hours
+#Rangpur-dhaka SR travel 300, Green Line 400-900 7hours
+#Rangpur-Rajshahi local 120 2hr
+#Barisal-Dhaka Sugandha,Sharbik  200 Subarna 330 7hrs
+#cox'sbazar-Chittagong Tk 140, 3 hours
+#cox'sbazar-dhaka Green Line 1600-3000,Hanif Enterprise 700-2000 8hrs
+
+

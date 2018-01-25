@@ -1,0 +1,131 @@
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: #808080;
+}
+
+.no-link {
+    color:white;    
+    text-decoration:none;    
+}
+
+ body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url("img/google_map.png");
+}
+
+
+input[type=date], select {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #009497;
+    font-size:18px;
+    color: white;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white; /* Green */
+    border: none;
+    color: #009497;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 2px;    
+} 
+
+.input[type="submit"]:hover {
+    background-color: white;
+    color: #0097A9;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #808080;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.hbasic {
+    height: 5px;
+    border: 0;
+    background-image: -webkit-gradient(linear, left top, right top, from(#0097A9), to(#0097A9), color-stop(50%, #0097A9), color-stop(50%, #0097A9));
+    background-image: -webkit-linear-gradient(left, #0097A9, #0097A9 50%, #0097A9 50%, #0097A9);
+    background-image: -moz-linear-gradient(left, #0097A9, #0097A9 50%, #0097A9 50%, #0097A9);
+    background-image: -ms-linear-gradient(left, #0097A9, #0097A9 50%, #0097A9 50%, #0097A9);
+    background-image: -o-linear-gradient(left, #0097A9, #0097A9 50%, #0097A9 50%, #0097A9);
+ 
+    -webkit-background-size: 100px 100%;
+    -moz-background-size: 100px 100%;
+    background-size: 100px 100%;
+}
+ 
+#wrapper{
+    
+}
+
+.wrapper-box {
+    width:29%;
+    margin-right:1%;
+    float:left;
+}
+
+.box {
+    -webkit-box-shadow: 0px 0px 2px 2px rgba(194,180,194,0.59);
+    -moz-box-shadow: 0px 0px 2px 2px rgba(194,180,194,0.59);
+    box-shadow: 0px 0px 2px 2px rgba(194,180,194,0.59);
+    width:95%;
+    padding: 15px;
+    height:auto;
+    min-height:50px;    
+    background: #1AA9AC;                             
+}
+
+.xbox {
+    -webkit-box-shadow: 0px 0px 2px 2px rgba(194,180,194,0.59);
+    -moz-box-shadow: 0px 0px 2px 2px rgba(194,180,194,0.59);
+    box-shadow: 0px 2px 0px 2px rgba(194,180,194,0.59);
+    width:95%;
+    padding: 15px;
+    height:auto;
+    min-height:50px;  
+    background: white;    
+}
+
+#googleMap{
+    background:white;
+}
+
+.verticalLine1 {
+    border-left: thick solid #00ABEE;
+    height: 30px;
+    margin-left: 18px;
+}
+
+.verticalLine2 {
+    border-left: thick solid #009900;
+    height: 30px;
+    margin-left: 18px;
+}
+
+.verticalLine3 {
+    border-left: thick solid #C74EC7;
+    height: 30px;
+    margin-left: 18px;
+}
+
+.verticalLine4 {
+    border-left: thick solid #10B0B0;
+    height: 30px;
+    margin-left: 18px;
+}

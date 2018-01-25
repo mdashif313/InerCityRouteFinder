@@ -7,5 +7,5 @@ My Artificial Intelligence Project.
 - Google Map API has been used for route visualization.
 
 ## Features
-- User Can Search bus service according to Source and Destination
-- The apps also show the best routes using Google Map
+- User Can Search bus service according to Source and Destination.
+- The app also shows the best routes using Google Map.

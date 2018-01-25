@@ -1,4 +1,4 @@
-# Iner City RouteF inder
+# Iner City Route Finder
 My Artificial Intelligence Project.
 
 ## Key Notes

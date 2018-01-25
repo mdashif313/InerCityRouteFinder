@@ -1,4 +1,4 @@
-# Iner City Route Finder
+# Inter City Route Finder
 My Artificial Intelligence Project.
 
 ## Key Notes
